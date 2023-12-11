@@ -1,0 +1,16 @@
+favicon.ico, favicon.png -> 브라우저 아이콘 
+
+  <title>내 안에 숨어있는 직업캐 찾기!</title> //브라우저 제목 수정
+  <link rel="icon" href="./favicon.png"> //브라우저 아이콘 수정
+
+reset.css cdn //브라우저의 기본 css를 초기화해 통일시킴
+Pretendart 폰트 //웹폰트(경량화)->가변 다이나믹 서브셋
+
+color: #000000; //헥사코드
+margin-left: auto //가로가 지정되어있을 경우 브라우저가 자동으로 여백을 지정해준 것으로 center와 개념이 다름
+
+display: flex //글자 요소를 블럭 요소와 유사한 값으로 지정
+
+.btn : 공통 적용 사항
+.btn-orange
+.btn-green ... => 다른 버튼들
